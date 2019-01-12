@@ -1,4 +1,4 @@
-# KindleNotes
+# KindleToBook
 Kindle Parser built on Attopasrec Haskell. 
 
 ![pdfBook.png](pdfBook.png)
